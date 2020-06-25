@@ -12,5 +12,6 @@ and save every domain in a separate list. (Gmail, Hotmail, Yahoo, Aol, Yandex )
 
 ## How to use
 1. ```git clone https://github.com/xdLORD1/Email-Filter.git```
-2. ```cd EmailFilter```
-3. ```python3 MailFilter.py ```
+2. ```cd Email-Filter```
+3. ```cd EmailFilter```
+4. ```python3 MailFilter.py ```
